@@ -1,0 +1,2 @@
+# miner-compilation
+crypto miner
